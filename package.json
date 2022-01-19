@@ -1,0 +1,25 @@
+{
+  "name": "reactstripe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badara1981/ReactStripe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badara1981/ReactStripe/issues"
+  },
+  "homepage": "https://github.com/badara1981/ReactStripe#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.15",
+    "react-stripe-checkout": "^2.6.3"
+  }
+}
